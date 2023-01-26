@@ -1,0 +1,3 @@
+Trabajo práctico de la asignatua Gestión de Datos, dictada en Tercer Año de la carrera de Ingeniería en Sistemas de Información para la UTN Buenos Aires.
+
+El mismo consiste en la migración de una tabla maestra a múltiples tablas siguiendo con el modelo relacional. En una segunda parte, se crea modelo BI con sus respectivas tablas de hechos y dimensiones, para finalmente generar las vistas solicitadas.
